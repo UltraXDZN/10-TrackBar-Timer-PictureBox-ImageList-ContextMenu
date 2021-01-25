@@ -1,0 +1,10 @@
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\bin\Debug\ContextMenuKontrola.exe.config
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\bin\Debug\ContextMenuKontrola.exe
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\bin\Debug\ContextMenuKontrola.pdb
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.csprojAssemblyReference.cache
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.Form1.resources
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.Properties.Resources.resources
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.csproj.GenerateResource.cache
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.csproj.CoreCompileInputs.cache
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.exe
+D:\Zadace\ContextMenuKontrola\ContextMenuKontrola\obj\Debug\ContextMenuKontrola.pdb

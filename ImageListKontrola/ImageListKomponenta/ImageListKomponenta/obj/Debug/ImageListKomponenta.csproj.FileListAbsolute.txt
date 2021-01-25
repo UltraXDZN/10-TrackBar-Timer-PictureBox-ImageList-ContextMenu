@@ -1,0 +1,10 @@
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.exe.config
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.exe
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.pdb
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csprojAssemblyReference.cache
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.Form1.resources
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.Properties.Resources.resources
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csproj.GenerateResource.cache
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csproj.CoreCompileInputs.cache
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.exe
+D:\Zadace\ImageListKontrola\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.pdb

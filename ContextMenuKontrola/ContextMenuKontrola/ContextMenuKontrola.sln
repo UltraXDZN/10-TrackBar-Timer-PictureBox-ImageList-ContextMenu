@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextMenuKontrola", "ContextMenuKontrola.csproj", "{77043223-6FCD-4E56-A88A-0E04CA0E2DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77043223-6FCD-4E56-A88A-0E04CA0E2DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77043223-6FCD-4E56-A88A-0E04CA0E2DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77043223-6FCD-4E56-A88A-0E04CA0E2DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77043223-6FCD-4E56-A88A-0E04CA0E2DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E06BA003-B538-44D1-A507-3F703D1A1D6D}
+	EndGlobalSection
+EndGlobal

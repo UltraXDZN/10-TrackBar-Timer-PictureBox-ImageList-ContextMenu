@@ -1,0 +1,10 @@
+D:\Zadace\Vrijeme\TimerKomponenta\bin\Debug\TimerKomponenta.exe.config
+D:\Zadace\Vrijeme\TimerKomponenta\bin\Debug\TimerKomponenta.exe
+D:\Zadace\Vrijeme\TimerKomponenta\bin\Debug\TimerKomponenta.pdb
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.csprojAssemblyReference.cache
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.Form1.resources
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.Properties.Resources.resources
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.csproj.GenerateResource.cache
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.csproj.CoreCompileInputs.cache
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.exe
+D:\Zadace\Vrijeme\TimerKomponenta\obj\Debug\TimerKomponenta.pdb

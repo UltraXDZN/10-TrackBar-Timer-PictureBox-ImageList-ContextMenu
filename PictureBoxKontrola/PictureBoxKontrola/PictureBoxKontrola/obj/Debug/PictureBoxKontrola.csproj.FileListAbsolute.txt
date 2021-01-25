@@ -1,0 +1,10 @@
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe.config
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.exe
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\bin\Debug\PictureBoxKontrola.pdb
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csprojAssemblyReference.cache
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Form1.resources
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.Properties.Resources.resources
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.GenerateResource.cache
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.csproj.CoreCompileInputs.cache
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.exe
+D:\Zadace\PictureBoxKontrola\PictureBoxKontrola\PictureBoxKontrola\obj\Debug\PictureBoxKontrola.pdb
